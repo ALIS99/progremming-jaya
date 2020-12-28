@@ -2,6 +2,10 @@ rencana programming
   codingnaiter
     -sintax
     -database
+    framework javascript
+      view
+      reacht
    struktur data dasar
   php
+  phyton
   
