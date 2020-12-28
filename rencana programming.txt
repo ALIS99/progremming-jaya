@@ -2,6 +2,8 @@ rencana programming
   codingnaiter
     -sintax
     -database
-   struktur data dasar
+    belajar angular
+    react
   php
+  laraverl
   
