@@ -2,8 +2,10 @@ rencana programming
   codingnaiter
     -sintax
     -database
-    belajar angular
-    react
+    framework javascript
+      view
+      reacht
+   struktur data dasar
   php
-  laraverl
+  phyton
   
